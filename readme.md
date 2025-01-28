@@ -27,7 +27,7 @@
 
 ## App
 
-![Agent Architecture Diagram](/assets/app_screen.jpg)
+![Agent Architecture Diagram](/assets/app_screen_main.jpg)
 
 ## Overview
 
