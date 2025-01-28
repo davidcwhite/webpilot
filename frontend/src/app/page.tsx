@@ -49,18 +49,6 @@ export default function Home() {
         gradient="from-emerald-500/20 to-green-500/20"
       >
         <div className="space-y-12">
-          {/* Logo Section */}
-          <div className="flex justify-center">
-            <Image
-              src="/images/BANK-logo_white-1-1024x349.png"
-              alt="BNP Paribas"
-              width={200}
-              height={68}
-              className="opacity-90 hover:opacity-100 transition-opacity"
-              priority
-            />
-          </div>
-
           {/* Title Section */}
           <div className="space-y-4 text-center">
             <h1 className="text-5xl md:text-6xl font-bold bg-gradient-to-r from-emerald-400 to-green-400 text-transparent bg-clip-text">
