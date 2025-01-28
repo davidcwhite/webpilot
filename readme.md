@@ -191,7 +191,3 @@ The agent comes equipped with several tools to interact with web pages:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Made with ❤️ by [@hrithikkoduri](https://github.com/hrithikkoduri)
