@@ -1,4 +1,4 @@
-# WebRover
+# Webpilot
 
 <div align="center">
   <!-- Backend -->
@@ -31,18 +31,11 @@
 
 ## Overview
 
-WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models and web automation tools to navigate the web, gather information, and provide structured responses based on the user's needs.
+Webpilot is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models and web automation tools to navigate the web, gather information, and provide structured responses based on the user's needs.
 
 ## Motivation
 
-In today's digital landscape, users spend significant time performing repetitive web-based tasks like research, data gathering, and information synthesis. WebRover aims to automate these tasks by combining the power of large language models with web automation capabilities, allowing users to focus on higher-level decision making while the agent handles the manual browsing work.
-
-## Demo
-
-### Video Demo
-https://github.com/user-attachments/assets/95ae9afb-3fdf-47f8-857e-f6a1a0d94df5
-> Watch WebRover autonomously navigate websites and extract information in real-time.
-
+In today's digital landscape, users spend significant time performing repetitive web-based tasks like research, data gathering, and information synthesis. Webpilot aims to automate these tasks by combining the power of large language models with web automation capabilities, allowing users to focus on higher-level decision making while the agent handles the manual browsing work.
 
 ## Features
 
@@ -93,8 +86,6 @@ The agent comes equipped with several tools to interact with web pages:
 ## Architecture
 
 ![Agent Architecture Diagram](/assets/agent_diagram.png)
-
-
 
 ### How It Works
 
